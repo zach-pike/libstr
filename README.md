@@ -1,4 +1,4 @@
-## libstr a string library for C
+## libstr, a string library for C
 
 To install
 ---
